@@ -1,0 +1,10 @@
+# IDE
+.idea
+
+# OS
+.DS_Store
+
+# Big directories
+node_modules
+lib
+bin
